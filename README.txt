@@ -42,7 +42,7 @@ MYSQL database
 
 1. Create your database in MYSQL.
 2. Download DataWiki codebase.
-https://github.com/codeforamerica/CityGroups
+https://github.com/codeforamerica/Data-Wiki
 (You can either download and unzip it, or clone it from github
 if you have git installed on your server.)
 3. The DataWiki codebase goes in your web server.
